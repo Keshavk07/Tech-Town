@@ -7,9 +7,6 @@ TechTown is a social network platform designed for developers to connect, collab
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -34,5 +31,7 @@ To set up TechTown locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/TechTown.git
+   https://github.com/Keshavk07/Tech-Town.git
    cd TechTown
+
+   
